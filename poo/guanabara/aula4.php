@@ -1,5 +1,8 @@
 <?php 
 
+// Metodos Getters = Metodos Acessores
+//Metodos Setters = Metodos Modificadores
+
 class Caneta {
 
     public $modelo;
