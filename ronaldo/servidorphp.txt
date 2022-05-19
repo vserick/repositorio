@@ -1,0 +1,14 @@
+ir ate a pasta xampp
+clicar com botão direito e abrir no terminal
+digitar comando abaixo
+php -S localhost:8000
+
+
+No navegador:
+
+acessar arquivo pelo nome : exemplo
+localhost:8000/exemplo1.php
+
+Para desligar servidor no terminal:
+
+2x ctrl c
